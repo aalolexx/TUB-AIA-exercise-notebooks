@@ -1,3 +1,5 @@
 data/*
 #Data from Moodle
 *highway/
+*model/
+.idea/jupyter-settings.xml
